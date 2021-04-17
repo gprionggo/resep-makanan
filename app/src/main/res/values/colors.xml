@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#D26021</color>
+    <color name="colorPrimary">#e06e31</color>
+    <color name="colorAccent">#d18760</color>
+    <color name="textPrimary">#000000</color>
+
+    <color name="grey_100">#F5F5F5</color>
+    <color name="grey_300">#E0E0E0</color>
+    <color name="grey_500">#9E9E9E</color>
+    <color name="grey_800">#757575</color>
+    <color name="grey_1000">#454545</color>
+
+    <color name="green_1">#25A396</color>
+    <color name="green_2">#49B3A8</color>
+    <color name="green_3">#6DC8BF</color>
+    <color name="green_4">#BDECE7</color>
+    <color name="green_chat">#e2ffc7</color>
+
+    <color name="red_1">#9f4c4c</color>
+    <color name="red_2">#cf6f6f</color>
+    <color name="blue_1">#4c619f</color>
+    <color name="blue_2">#637abe</color>
+    <color name="yellow_1">#9f954c</color>
+    <color name="yellow_2">#E6DA7A</color>
+    <color name="transparent">#00FFFFFF</color>
+
+    <color name="icon_1">#FFFFFF</color>
+    <color name="icon_2">#E3E7F2</color>
+    <color name="icon_3">#A4C2F7</color>
+    <color name="icon_4">#7FACFA</color>
+    <color name="icon_5">#428DFF</color>
+
+    <color name="red_a700">#D50000</color>
+    <color name="green_a700">#00C853</color>
+    <color name="green_dark_a700">#00AE48</color>
+    <color name="yellow_a700">#FFD600</color>
+    <color name="blue_a700">#2962FF</color>
+    <color name="blue_dark_a700">#304FFE</color>
+    <color name="orange_a700">#FF6D00</color>
+    <color name="orange_a800">#D26021</color>
+
+    <color name="level_1">#90A955</color>
+    <color name="level_2">#4F772D</color>
+    <color name="level_3">#31572C</color>
+    <color name="level_4">#132A13</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

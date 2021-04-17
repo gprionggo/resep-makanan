@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "714548372586",
+    "project_id": "psimakanan",
+    "storage_bucket": "psimakanan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714548372586:android:6588ff7a84546e28969613",
+        "android_client_info": {
+          "package_name": "com.ub.gprionggo.resepmakanan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714548372586-ej13mjn889q8djhcoabsdf8fueagce3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuzYQP7KvCIgAz1rWExBTWwqeBducx2Go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714548372586-ej13mjn889q8djhcoabsdf8fueagce3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

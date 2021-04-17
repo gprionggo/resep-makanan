@@ -1,0 +1,3 @@
+Aplikasi ini merupakan tugas akhir dari kelompok.
+Aplikasi ini menggunakan database firebase.
+Aplikasi dapat menampilkan list dan menambahkan data makanan dari firebase.
